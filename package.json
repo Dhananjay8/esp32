@@ -1,0 +1,24 @@
+{
+  "name": "esp32",
+  "version": "1.0.0",
+  "description": "connecting ESP32 to AWS-IoT",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhananjay8/esp32.git"
+  },
+  "keywords": [
+    "aws-iot",
+    "aws-lambda",
+    "esp32"
+  ],
+  "author": "Dhananjay Patil",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Dhananjay8/esp32/issues"
+  },
+  "homepage": "https://github.com/Dhananjay8/esp32#readme"
+}
